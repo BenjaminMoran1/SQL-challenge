@@ -1,4 +1,4 @@
-worked with John Xuereb on this assignment
+worked with John Xuereb on this assignment: https://github.com/johnxuereb17/sql-challenge
 
 
 Background
