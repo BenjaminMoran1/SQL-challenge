@@ -1,5 +1,5 @@
 create table departments (
-	dept_no VARCHAR(4) primary key NOT NULL,
+	dept_no VARCHAR(4) PRIMARY KEY NOT NULL,
 	dept_name VARCHAR(40) NOT NULL
 );
 CREATE TABLE dept_emp (
